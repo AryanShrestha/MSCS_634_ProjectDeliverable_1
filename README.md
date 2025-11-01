@@ -1,7 +1,7 @@
 
 # Advanced Data Mining — Deliverable 1
 **Title:** Data Collection, Cleaning, and Exploratory Data Analysis (EDA)  
-**Dataset:** Breast Cancer Wisconsin (Diagnostic) via `scikit-learn` 
+**Dataset:** Breast Cancer Wisconsin (Diagnostic) via `scikit-learn`   
 **Records:** 569 | **Features:** 30 numeric | **Domain:** Healthcare
 
 ## Repository Contents
